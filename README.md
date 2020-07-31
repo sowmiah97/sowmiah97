@@ -1,4 +1,5 @@
-### Hi there 👋
+### Sowmiah Balasubramanian
 
-- 🔭 I’m currently working as a Front end developer.
-<img src="/female-developer-vector.jpg">
+- Front end developer.
+- HTML, CSS, JavaScript, React and Ember 😎
+<img src="/female-developer-vector.jpg" height="300px">
